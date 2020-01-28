@@ -1,0 +1,16 @@
+:host {
+  ion-grid {
+    width: 100%;
+  }
+
+  .list-form {
+    ion-button {
+      margin-top: 10px;
+    }
+  }
+  
+  .paz {
+    position: relative;
+    z-index: 10;
+  }
+}
